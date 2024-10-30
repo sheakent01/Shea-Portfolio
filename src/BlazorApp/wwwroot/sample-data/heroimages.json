@@ -1,13 +1,13 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/Clean room Portfolio.jpg",
+    "alt": "Hi-Tech Manafacturing Environment"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/semiconducter.jpg",
+    "alt": "Close up of semiconducter"
   },
   {
     "name": "portfolio",
