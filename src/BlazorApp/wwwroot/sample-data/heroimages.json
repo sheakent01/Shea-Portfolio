@@ -6,12 +6,12 @@
   },
   {
     "name": "about",
-    "src": "images/semiconducter.jpg",
+    "src": "images/motion-background.jpg",
     "alt": "Close up of semiconducter"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src" :"images/semiconducter.jpg",
+    "alt": "Close up of semiconducter"
   }
 ]
